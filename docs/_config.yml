@@ -7,9 +7,6 @@ sections:
   - id: apropos
     href: apropos.html
     titre: À propos
-  - id: blog
-    href: blogue.html
-    titre: Blogue
   - id: contact
     href: contact.html
     titre: Contact
