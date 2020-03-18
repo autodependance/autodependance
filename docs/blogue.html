@@ -19,7 +19,7 @@ image: e.jpg
           </div>
         </div>
         <div class="row d-flex">
-          {% for post in site.posts %}
+          {% for post in site.tags.publie %}
           <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry align-self-stretch">
               <a href="{{ post.url }}" class="block-20" style="background-image: url('{{ site.base }}images/{{ post.image }}');">
@@ -28,7 +28,7 @@ image: e.jpg
               	<div class="meta mb-3">
                   <div><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }}</a></div>
                 </div>
-                <h3 class="heading mt-3"><a href="#">{{ post.titre }}</a></h3>
+                <h3 class="heading mt-3"><a href="{{ post.url }}">{{ post.titre }}</a></h3>
                 <p>{{ post.content | strip_html | strip_newlines | truncate: 100 }}</p>
               </div>
             </div>
