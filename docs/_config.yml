@@ -13,6 +13,10 @@ sections:
   - id: contact
     href: contact.html
     titre: Contact
+  - id: twitter
+    href: https://twitter.com/autodependance
+    titre: Sur Twitter
+
 # Notre site utilise https://formspree.io pour les formulaires.
 formspree_token: mqkereej
 # / veut dire que c'est sur un domaine directement et non dans un sous-
