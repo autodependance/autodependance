@@ -40,9 +40,6 @@ Chrysler se démarquait de loin le plus de VUS suivi de Ford, Mazda, Mercedes Be
 | Lexus         | 1   | 8    |
 | Mini          |     | 5    |
 
-{% assign source = '2020-03-20-salon-de-lauto/data.csv' %}
-{% include d3bar.html %}
-
 > * Ces données sont tirées de photos prises par l’auteur lors d’un passage rapide du salon et sont donc une approximation. Dans les cas ou il y avait un doute entre un VUS ou un auto, il a été déterminé que c’est une automobile. Les pick-ups ne sont pas inclus dans ce tableau.
 
 Seconde observation: la qualité de l’information sur la consommation du carburant des véhicules est variable. Alors que pour certains modèles, la consultation de l’écran tactile était aisée, dans la plupart du temps, cette information importante était enterrée sous une multitude de données sur l’accélération ou puissance du moteur. Et pour quelques marques haut de gamme (sans surprise), la consommation du carburant était tout simplement absente. En réponse à nos question, des représentants nous ont  confirmé que la consommation du carburant faisaient rarement l’objet d’intérêt de la part des visiteurs.
