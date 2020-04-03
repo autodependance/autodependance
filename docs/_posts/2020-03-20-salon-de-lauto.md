@@ -5,7 +5,7 @@ image: bg_2_car.jpg
 titre: Mission d’observation au Salon de l’auto de Montréal 2020
 date: 2020-03-20T12:00:00.000Z
 tags:
-  - brouillon
+  - publie
 ---
 Je suis allé prendre le pouls de l’état de la culture automobile au Salon international de l’auto de Montréal (SIAM). Comme en chaque début d’année depuis plus de 70 ans, l’Association des concessionnaires de Montréal conviait des milliers d’amateurs au Palais des congrès pour  se pâmer devant les derniers bolides. Accompagné d’un chercheur sur la dépendance automobile, mon objectif était de faire des observations sur les véhicules présentés et l’information offerte aux visiteurs.
 
