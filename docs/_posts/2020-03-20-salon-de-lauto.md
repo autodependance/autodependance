@@ -15,32 +15,32 @@ Chrysler se démarquait de loin le plus de VUS suivi de Ford, Mazda, Mercedes Be
 
 ## Tableau - Modèles présentés au SIAM 2020*
 
-| Marques       | VUS | auto | véhicule<br/>électrique |
-|---------------|-----|------|---------------------|
-| Chrysler      | 14  | 1    |                     |
-| Ford          | 7   | 3    |                     |
-| Mazda         | 7   | 3    |                     |
-| Mercedes Benz | 7   | 5    |                     |
-| Nissan        | 7   | 4    | 1                   |
-| Toyota        | 7   | 9    |                     |
-| Chevrolet     | 6   | 6    |                     |
-| Mitsubishi    | 6   | 2    |                     |
-| GMC           | 5   |      |                     |
-| Hyundai       | 5   | 7    | 4                   |
-| Land Rover    | 5   |      |                     |
-| Subaru        | 5   | 4    |                     |
-| Buick         | 4   | 1    |                     |
-| Acura         | 3   | 1    |                     |
-| BMW           | 3   | 4    | 1                   |
-| Infiniti      | 3   | 1    |                     |
-| Kia           | 3   | 5    | 2                   |
-| Alpha Romeo   | 2   | 2    |                     |
-| Honda         | 2   | 4    |                     |
-| Jaguar        | 2   | 4    |                     |
-| Lexus         | 1   | 8    |                     |
-| Mini          |     | 5    | 1                   |
+| Marques       | VUS | auto |
+|---------------|-----|------|
+| Chrysler      | 14  | 1    |
+| Ford          | 7   | 3    |
+| Mazda         | 7   | 3    |
+| Mercedes Benz | 7   | 5    |
+| Nissan        | 7   | 4    |
+| Toyota        | 7   | 9    |
+| Chevrolet     | 6   | 6    |
+| Mitsubishi    | 6   | 2    |
+| GMC           | 5   |      |
+| Hyundai       | 5   | 7    |
+| Land Rover    | 5   |      |
+| Subaru        | 5   | 4    |
+| Buick         | 4   | 1    |
+| Acura         | 3   | 1    |
+| BMW           | 3   | 4    |
+| Infiniti      | 3   | 1    |
+| Kia           | 3   | 5    |
+| Alpha Romeo   | 2   | 2    |
+| Honda         | 2   | 4    |
+| Jaguar        | 2   | 4    |
+| Lexus         | 1   | 8    |
+| Mini          |     | 5    |
 
-> * Ces données sont tirées de photos prises par l’auteur lors d’un passage rapide du salon et sont donc une approximation. Dans les cas ou il y avait un doute entre un VUS ou un auto, il a été déterminé que c’est une automobile. Les pick-ups ne sont pas inclus dans ce tableau. Le nombre de véhicules électriques est un sous ensemble qui peut comprendre des autos et VUS. Seul les véhicules 100% électrique ont été comptabilisés. Les véhicules présentés dans la section dédiée aux véhicules électrique n’ont pas été comptabilisés dans ce tableau.
+> * Ces données sont tirées de photos prises par l’auteur lors d’un passage rapide du salon et sont donc une approximation. Dans les cas ou il y avait un doute entre un VUS ou un auto, il a été déterminé que c’est une automobile. Les pick-ups ne sont pas inclus dans ce tableau.
 
 Seconde observation: la qualité de l’information sur la consommation du carburant des véhicules est variable. Alors que pour certains modèles, la consultation de l’écran tactile était aisée, dans la plupart du temps, cette information importante était enterrée sous une multitude de données sur l’accélération ou puissance du moteur. Et pour quelques marques haut de gamme (sans surprise), la consommation du carburant était tout simplement absente. En réponse à nos question, des représentants nous ont  confirmé que la consommation du carburant faisaient rarement l’objet d’intérêt de la part des visiteurs.
 
