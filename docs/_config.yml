@@ -2,16 +2,16 @@ titre: Autodépendance
 a_propos: Nous sommes un collectif basé à Montréal qui désire participer au débat public autour d'une politique de mobilité durable.
 sections:
   - id: home
-    href: index.html
+    href: /index.html
     titre: Accueil
   - id: apropos
-    href: apropos.html
+    href: /apropos.html
     titre: À propos
   - id: blogue
-    href: blogue.html
+    href: /blogue.html
     titre: Blogue
   - id: contact
-    href: contact.html
+    href: /contact.html
     titre: Contact
   - id: twitter
     href: https://twitter.com/autodependance
@@ -19,6 +19,3 @@ sections:
 
 # Notre site utilise https://formspree.io pour les formulaires.
 formspree_token: mqkereej
-# / veut dire que c'est sur un domaine directement et non dans un sous-
-# répertoire.
-base: /
