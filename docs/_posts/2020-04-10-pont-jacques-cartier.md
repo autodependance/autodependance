@@ -33,7 +33,7 @@ Le traffic des véhicules à moteur est en forte diminution à cause des mesures
 
 Dans une société où tous les usages de la route sont traités équitablement, cette discussion aurait lieu de façon transparente; les pours et contres de chaque option seraient exposés publiquement, et une décision serait prise pour le bénéfice de tous.
 
-Mais, dans une société aux proies avec l'autodépendance, la réflexe est toujours de limiter les modes de transports actifs et de ne pas justifier cette décision.
+Mais, dans une société aux proies avec l'autodépendance, la réflexe est toujours de limiter les modes de transports actifs et de ne pas justifier cette décision. Le résultat est tout à fait prévisible.
 
 Albert Albala
 pour le collectif autodependance.org
