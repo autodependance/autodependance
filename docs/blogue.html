@@ -19,7 +19,7 @@ image: e.jpg
           </div>
         </div>
         <div class="row d-flex">
-          {% for post in site.tags.publie %}
+          {% for post in site.posts %}
           <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry align-self-stretch">
               <a href="{{ post.url }}" class="block-20" style="background-image: url('/images/{{ post.image }}');">
