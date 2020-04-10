@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/alberto56/antichar2.svg?style=svg)](https://circleci.com/gh/alberto56/antichar2)
 
-Développement local 
+Développement local
 -----
 
 Installer Docker, télécharger ce code et taper:
