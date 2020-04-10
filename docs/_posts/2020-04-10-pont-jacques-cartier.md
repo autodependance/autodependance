@@ -19,7 +19,7 @@ En terme de superficie, selon une analyse faite à partir d'[une image satellite
 * le trottoir occupe 7.2% de la surface;
 * la piste multifonctionnelle occupe 11% de la surface.
 
-Si vous venez d'un pays où tous les usages de la route sont traités équitablement, vous allez être surpris d'apprendre qu'en amérique du nord, des infrastructures publiques réservées aux citoyens de deuxième classe (les non-automobilistes) peuvent être fermées n'importe quand, sans explication, et pour une durée indéterminée. Mais ceci est notre culture ici en Amérique du Nord. C'est le cas du trottoir du pont Jacques Cartier depuis le 1er avril. Dans ce cas précis, comptons-nous chanceux que les autorités daignent [inscrire cette fermeture sur le web](http://jacquescartierchamplain.ca/circulation-travaux/pietons-et-cyclistes/):
+Si vous venez d'un pays où tous les usages de la route sont traités équitablement, vous allez être surpris d'apprendre qu'en Amérique du nord, des infrastructures publiques réservées aux citoyens de deuxième classe (les non-automobilistes) peuvent être fermées n'importe quand, sans explication, et pour une durée indéterminée. Mais ceci est notre culture ici en Amérique du Nord. C'est le cas du trottoir du pont Jacques Cartier depuis le 1er avril. Dans ce cas précis, comptons-nous chanceux que les autorités daignent [inscrire cette fermeture sur le web](http://jacquescartierchamplain.ca/circulation-travaux/pietons-et-cyclistes/):
 
 <img src="/images/2020-04-10-1.png" alt="capture d'écran du site web du pont Jacques-Cartier: trottoir fermé depuis le 1er avril"/>
 
