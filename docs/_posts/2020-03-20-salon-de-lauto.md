@@ -7,9 +7,9 @@ date: 2020-03-20T12:00:00.000Z
 tags:
   - publie
 ---
-Je suis allé prendre le pouls de l’état de la culture automobile au Salon international de l’auto de Montréal (SIAM). Comme en chaque début d’année depuis plus de 70 ans, l’Association des concessionnaires de Montréal conviait des milliers d’amateurs au Palais des congrès pour  se pâmer devant les derniers bolides. Accompagné d’un chercheur sur la dépendance automobile, mon objectif était de faire des observations sur les véhicules présentés et l’information offerte aux visiteurs.
+En début d'année, je suis allé prendre le pouls de l’état de la culture automobile au Salon international de l’auto de Montréal (SIAM). Comme elle le fait à chaque année depuis 75 ans, l’Association des concessionnaires de Montréal conviait des milliers d’amateurs au Palais des congrès pour se pâmer devant les dernières créations des fabricants de bolides. Accompagné d’un spécialiste sur la question de la dépendance automobile, mon objectif était de faire des observations sur les véhicules présentés et l’information offerte aux visiteurs.
 
-Premier constat de notre visite au SIAM: la domination des véhicules utilitaire sport (VUS). Environ 70% ???? des véhicules présenté étaient des VUS.
+Premier constat de notre visite au SIAM: plus de la moitiée des véhicules présentés au salon sont des véhicules utilitaire sport (VUS).
 
 Chrysler se démarquait de loin le plus de VUS suivi de Ford, Mazda, Mercedes Benz, Nissan et Toyota (voir tableau). Dans certains cas, cette domination était exacerbée par la mise en vedette de VUS placés sur des présentoirs surélevés destiné à attirer les regards.
 
@@ -68,7 +68,7 @@ Le SIAM pourrait:
 * Éviter les publicités à l’extérieur du salon dans le Palais des congrès;
 * Engager un dialogue contructif avec les acteurs québécois de la mobilité durable.
 
-À l’ouverture du salon, des manifestants du mouvement écologiste Extinction Rébellion ont paradé devant l’entrée avec pancartes et slogans. Ceci s’inscrit dans une démarche propre au mouvement mais aussi à des actions semblables mais plus musclées récemment au salons de l’auto de Francfort et Bruxelles. Force est de constater qu’au fur et à mesure que la crise climatique s’aggrave, l’opinion sera de moins en moins patiente avec les promoteurs de la  culture automobile fossile du siècle passé. Il faudra que les salons d’autos fassent preuve de créativité et d’ambitions afin de joindre le mouvement mondial vers la mobilité durable.
+À l’ouverture du salon, des manifestants du mouvement écologiste Extinction Rébellion ont paradé devant l’entrée munis de  pancartes et slogans. On se rappel aussi d'actions plus musclées récemment aux salons de l’auto de Francfort https://driving.ca/auto-news/news/thousands-protest-at-frankfurt-car-show-over-emissions-concerns et Bruxelles. Force est de constater qu’au fur et à mesure que la crise climatique s’aggrave, l’opinion sera de moins en moins patiente avec les promoteurs de la culture automobile fossile du siècle passé. Il faudra que les salons d’autos fassent preuve de créativité et d’ambitions afin de joindre le mouvement mondial vers la mobilité durable.
 
 François Meloche, pour Autodépendance.org<br/>
 29 mars 2020
