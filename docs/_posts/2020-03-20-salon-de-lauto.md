@@ -56,12 +56,14 @@ Soulignons l’effort du SIAM cette année à se mettre au diapason mondial vers
 
 Notons aussi les kiosques d’information sur l’électrification des transports animés par Roulez électriques et Équiterre qui tentaient tant bien que mal d’attirer l’attention des visiteurs pressés d’entrer voir les véhicules.
 
-Finalement, attardons nous à la publicité en dehors du salon. Comme à chaque année, le Palais des congrès met à la dispostion des fabricants des espaces publicitaires géants, dans le hall menant au salon. Des milliers de passants, dont plusieurs usagers du métro se rendant à la station Place d’armes, ont donc été exposé pendant plus de deux semaines à des pubs d’autos et de VUS.
+Finalement, attardons nous à la publicité en dehors du salon. Comme à chaque année, le Palais des congrès met à la dispostion des fabricants des espaces publicitaires géants, dans le hall menant au salon. Des milliers de passants, dont plusieurs usagers du métro se rendant à l'entrée de leur station, ont donc été exposé pendant plus de deux semaines à des pubs d’autos et de VUS.
 
-Suite à cette visite, nous retenons plusieurs pistes que le SIAM pourrait explorer afin de maintenir l’acceptabilité sociale de son événement. En effet, le salon pourrait s'arrimer à l’esprit du Plan québécois de mobilité durable en menant divers actions:
+Suite à cette visite, nous retenons plusieurs pistes que le SIAM pourrait explorer afin d'assurer une certaine acceptabilité sociale. Ceci permettrait au salon de s'arrimer à l’esprit du Plan québécois de mobilité durable.
+
+Le SIAM pourrait:
 
 * Offrir une expérience mobilité durable, présentant des véhicules électriques mais aussi les bienfaits des transports collectifs et actifs;
-* Assurer que la consommation du carburant soit mise en évidence pour chaque modèles présentées;
+* Assurer que la consommation du carburant des véhicules soit mise en évidence pour chaque modèles présentées;
 * Ne plus faire la promotion d’activités et de publicité visant spécifiquement les enfants et jeunes adultes (notamment Expose ton char);
 * Éviter les publicités à l’extérieur du salon dans le Palais des congrès;
 * Engager un dialogue contructif avec les acteurs québécois de la mobilité durable.
