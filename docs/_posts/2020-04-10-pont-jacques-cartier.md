@@ -23,7 +23,7 @@ Si vous venez d'un pays où tous les usages de la route sont traités équitable
 
 <img src="/images/2020-04-10-1.png" alt="capture d'écran du site web du pont Jacques-Cartier: trottoir fermé depuis le 1er avril"/>
 
-Ce qui nous laisse 72.8% de la surface (dont l'entretien est payé par l'ensemble des conribuables) à l'usage des véhicules à moteur; et 11% pour tous les autres usages.
+Ce qui nous laisse 72.8% de la surface (dont l'entretien est payé par l'ensemble des contribuables) à l'usage des véhicules à moteur; et 11% pour tous les autres usages.
 
 Le traffic des véhicules à moteur est en forte diminution à cause des mesures de confinement; et en même temps, la population ayant plus de temps libre, et avec l'arrivée du beau temps, l'achalandage des modes de transport actifs est en augmentation. Dans ce contexte, on peut s'imaginer que les responsables de la Société des ponts aient eu une discussion sur plusieurs options pour assurer la distanciation sociale:
 
