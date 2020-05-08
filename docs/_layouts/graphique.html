@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include nav.html %}
+
+    <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">{{ page.titre }}</h1>
+
+    <section class="ftco-section contact-section ftco-degree-bg">
+      <div class="container">
+        {{ content | markdownify }}
+      </div>
+    </section>
+    {% include footer.html %}
+
+  </body>
+</html>

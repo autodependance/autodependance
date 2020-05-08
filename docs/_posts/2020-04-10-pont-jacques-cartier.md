@@ -4,8 +4,7 @@ id: blog
 image: pont-jacques-cartier.jpg
 titre: "Fermeture du Pont Jacques-Cartier aux piétons: une autre concession à l'autodépendance"
 date: 2020-04-10T12:00:00.000Z
-tags:
-  - publie
+categories: blog
 ---
 Tous sont d'accord sur l'importance de la distanciation sociale, et avec le retour du beau temps à Montréal, la Société des ponts Jacques Cartier et Champlain a décidé de prendre des mesures pour assurer une distanciation sur sa piste multifonctionnelle (cyclistes et piétons) du pont Jacques Cartier.
 
