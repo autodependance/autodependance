@@ -16,7 +16,7 @@ Or, nous pouvons dire qu'en date d'aujourd'hui la voiture est moins meurtrière 
 
 Donald Trump a affirmé à propos du COVID-19: « You look at automobile accidents, which are far greater than any numbers we're talking about. That doesn't mean we're going to tell everybody no more driving of cars » (source: [Your analogy comparing coronavirus to car accident deaths is bad, par Philip Bump (c'est son vrai nom), le 24 mars 2020, Washington Post](https://www.washingtonpost.com/politics/2020/03/24/your-analogy-comparing-coronavirus-car-accident-deaths-is-bad/)). Ma réponse ? « Why the fuck not ? »
 
-Cette anti-pub vise a faire entre deux fléaux de l'humanité. Elle est distribuée gratuitement selon la licence ouverte [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
+Cette anti-pub vise a faire un parallèle entre deux fléaux de l'humanité. Elle est distribuée gratuitement selon la licence ouverte [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
 
 Sources
 -----
