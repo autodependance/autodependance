@@ -4,10 +4,24 @@
   <body>
     {% include nav.html %}
 
-    <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">{{ page.titre }}</h1>
+    <section class="first-title">
+      <div class="container">
+        <h1>{{ page.titre }}</h1>
+      </div>
+    </section>
 
     <section class="ftco-section contact-section ftco-degree-bg">
       <div class="container">
+        <div>
+          <a target="_blank" href="/images/{{ page.image }}">
+            Téléchargez l'image ici.
+          </a>
+        </div>
+        <div>
+        <a href="{{ page.image }}">
+        <img class="image-a-telecharger" src="/images/{{ page.image }}" alt="{{ page.alt }}" />
+        </a>
+        </div>
         {{ content | markdownify }}
       </div>
     </section>

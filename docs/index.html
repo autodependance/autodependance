@@ -48,6 +48,7 @@ ensavoirplus: /apropos.html
               	<p><a target="_blank" href="https://fr.davidsuzuki.org/projet/le-cout-des-transports-au-quebec/" class="btn btn-white px-3 py-2 mt-2">Rapport de la fondation Suzuki</a></p>
               </div>
               {% for post in site.categories.graphique limit 3 %}
+              <hr/>
               <div class="text">
                 <a href="{{ post.permalink }}">
                 <img src="/images/{{ post.thumb }}" alt="{{ post.alt }}" />
