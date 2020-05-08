@@ -7273,7 +7273,8 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 300;
-  color: gray; }
+  color: #222;
+}
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -7287,7 +7288,9 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #f86f2d; }
+  color: #f86f2d;
+  font-weight: bold;
+}
   a:hover {
     text-decoration: none;
     color: #f86f2d; }

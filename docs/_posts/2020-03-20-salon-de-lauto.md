@@ -4,8 +4,7 @@ id: blog
 image: bg_2_car.jpg
 titre: Mission d’observation au Salon de l’auto de Montréal 2020
 date: 2020-03-20T12:00:00.000Z
-tags:
-  - publie
+categories: blog
 ---
 En début d'année, je suis allé prendre le pouls de l’état de la culture automobile au Salon international de l’auto de Montréal (SIAM). Comme elle le fait à chaque année depuis 75 ans, l’Association des concessionnaires de Montréal conviait des milliers d’amateurs au Palais des congrès pour se pâmer devant les dernières créations des fabricants de bolides. Accompagné d’un spécialiste sur la question de la dépendance automobile, mon objectif était de faire des observations sur les véhicules présentés et l’information offerte aux visiteurs.
 
