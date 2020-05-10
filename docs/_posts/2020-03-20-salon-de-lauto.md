@@ -59,6 +59,8 @@ Finalement, attardons nous à la publicité en dehors du salon. Comme à chaque 
 
 Suite à cette visite, nous retenons plusieurs pistes que le SIAM pourrait explorer afin d'assurer une certaine acceptabilité sociale. Ceci permettrait au salon de s'arrimer à l’esprit du Plan québécois de mobilité durable.
 
+Nous avons aussi fait l'inventaire des véhicules présenté au Salon international de l'auto de Québec qui se tenait quelques semaines après celui de Montréal. Même constat, près de 55% des véhicules étaient des VUS.
+
 Le SIAM pourrait:
 
 * Offrir une expérience mobilité durable, présentant des véhicules électriques mais aussi les bienfaits des transports collectifs et actifs;
