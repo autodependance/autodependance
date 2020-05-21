@@ -38,6 +38,20 @@ ensavoirplus: /apropos.html
                 <strong class="number" data-number="6600000">6600000</strong>
                 <span><a target="_blank" href="https://ici.radio-canada.ca/nouvelle/1167632/vehicules-circulation-quebec-saaq-voitures-camions-transport-chiffres-accidents" style="color: black; text-decoration: underline; ">véhicules au Québec</a> dans un contexte de crise climatique.</span>
               </div>
+              <div class="text">
+                <h4>Nos billets de blogue</h4>
+                {% for post in site.categories.blog %}
+                <div class="block-21 mb-4 d-flex">
+                  <a class="blog-img mr-4" style="background-image: url(/images/{{ post.image }});"></a>
+                  <div class="text">
+                    <h3 class="heading"><a href="{{ post.url }}">{{ post.titre }}</a></h3>
+                    <div class="meta">
+                      <div><a href="#"><span class="icon-calendar"></span> {{ post.date | date: "%Y-%m-%d" }}</a></div>
+                    </div>
+                  </div>
+                </div>
+                {% endfor %}
+              </div>
             </div>
           </div>
           <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
@@ -73,6 +87,7 @@ ensavoirplus: /apropos.html
           <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18 color-3 align-items-stretch">
               <div class="text">
+                <h4><a href="https://twitter.com/autodependance">Suivez-nous sur Twitter</a></h4>
                 <a class="twitter-timeline" href="https://twitter.com/autodependance?ref_src=twsrc%5Etfw">Tweets by autodependance</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
               </div>
             </div>

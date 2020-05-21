@@ -9,9 +9,9 @@ categories: blog
 
 Le 12 décembre 2015, l'Accord de Paris sur le climat a été signée par la quasi-totalité de l'humanité, dont le Canada.
 
-Étant donné que l'industrie du transport par voiture privée contribue grandement aux gaz à effet de serre, nous pouvons imaginer que, dans les années suivant la signature de l'Accord, quelques métriques soient en voie d'amélioration:
+Étant donné que l'industrie du transport par voiture privée contribue grandement aux gaz à effet de serre, nous pouvons imaginer que, dans les années suivant la signature de l'Accord, quelques indicateurs soient en voie d'amélioration:
 
-* Une planification urbain qui favorise l'utilisation de modes de transports doux;
+* Une planification urbaine qui favorise l'utilisation de modes de transport doux;
 * Une baisse du co2 par km parcouru;
 * Une baisse de la puissance moyenne des véhicules;
 * Une baisse du poids moyen des véhicules;
@@ -20,15 +20,15 @@ Le 12 décembre 2015, l'Accord de Paris sur le climat a été signée par la qua
 * Une baisse du nombre de m2 occupés par chaque véhicule;
 * Une baisse dans le nombre d'enregistrement de nouveaux véhicules.
 
-Oublions une meilleure planification urbain, nous n'avons qu'à sortir des centres urbains pour voir que c'est un échec lamentable. Mais concentrons-nous sur les autres métriques.
+Oublions une meilleure planification urbaine, nous n'avons qu'à sortir des centres urbains pour voir que c'est un échec lamentable. Mais concentrons-nous sur les autres indicateurs.
 
-Le discours ambiant est assez positif sur l'énergie mis sur l'atteinte des objectifs de l'Accord de Paris. Un québécois peut obtenir jusqu'à 13,000$ d'argent public pour acheter une voiture électrique, par exemple. Aussi, le Gouvernement du Canada s'étant engagé, par exemple, à une économie carboneutre en 2050. Nous pouvons nous attendre, donc, à qu'un ou deux des métriques susmentionnés soit en voie d'amélioration.
+Le discours ambiant est assez positif sur l'énergie mis sur l'atteinte des objectifs de l'Accord de Paris. Un Québécois peut obtenir jusqu'à 13,000$ d'argent public pour acheter une voiture électrique, par exemple. Aussi, le Gouvernement du Canada s'étant engagé, par exemple, à une économie carboneutre en 2050. Nous pouvons nous attendre, donc, à qu'un ou deux des indicateurs susmentionnés soit en voie d'amélioration.
 
 Pour en avoir le coeur net, j'ai parcouru le rapport "Fuel Economy in Major Car Markets" de l'Agence internationale de l'énergie (voir section ressources, ci-dessous).
 
-**Or, les résultats sont exactement à l'inverse du discours**: dans la décennie avant 2015, donc:
+**Or, les résultats sont exactement à l'inverse du discours**:
 
-* avant la signature de l'Accord de Paris, **tous les indicateurs étant positifs, neutres, ou en dents de scie**
+* dans la décennie avant 2015, donc, avant la signature de l'Accord de Paris, **tous les indicateurs étant positifs, neutres, ou en dents de scie**
 * dès 2015, l'année de la signature de l'Accord de Paris, **tous les indicateurs s'empirent nettement**. Dans la section "ressources" à la fin de cet article, vous trouverez un lien vers les données brutes du rapport qui ont servi à l'élaboration de ces graphiques.
 
 ### Tableau 1, émissions de co2 par km parcouru
@@ -61,9 +61,7 @@ Pour en avoir le coeur net, j'ai parcouru le rapport "Fuel Economy in Major Car 
 {% assign datafile = '/data/posts/2020-04-15/average_footprint.csv' %}
 {% include graphique.html %}
 
-too big for their garages
-
-### Tableau 7, enregistrement de véhicules
+### Tableau 7, enregistrement de véhicules (milliers)
 {% assign chart_id = "chart7" %}
 {% assign datafile = '/data/posts/2020-04-15/vehicule_registrations.csv' %}
 {% include graphique.html %}
@@ -71,7 +69,7 @@ too big for their garages
 Méthodologie
 -----
 
-J'ai utilisé les données brutes du rapport de l'Agence internationale de l'énergie. Si un chiffre n'était pas disponible pour une année donnée, j'ai utilisé le chiffre de l'année précédente. Pour générer les tableaux, j'ai créé un document CSV à partir de chaque métrique, en utilisant LibreOffice Calc et la fonction TRANSPOSE() pour obtenir les données dans un format affichables par D3.js.
+J'ai utilisé les données brutes du rapport de l'Agence internationale de l'énergie. Si un chiffre n'était pas disponible pour une année donnée, j'ai utilisé le chiffre de l'année précédente. Pour générer les tableaux, j'ai créé un document CSV à partir de chaque indicateur, en utilisant LibreOffice Calc et la fonction TRANSPOSE() pour obtenir les données dans un format affichables par D3.js.
 
 Albert Albala
 pour le collectif autodependance.org

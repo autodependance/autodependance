@@ -42,3 +42,8 @@ img {
   max-width: 500px;
   border: 1px black solid;
 }
+.block-18.color-2 a,
+.block-18.color-3 a,
+.block-18.color-1 a {
+  color: black !important;
+}
