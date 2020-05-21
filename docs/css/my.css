@@ -30,3 +30,15 @@ table {
 img {
   max-width: 100%;
 }
+.first-title .container {
+  padding-top: 20px;
+}
+@media (min-width: 992px) {
+  .first-title .container {
+    padding-top: 100px;
+  }
+}
+.image-a-telecharger {
+  max-width: 500px;
+  border: 1px black solid;
+}

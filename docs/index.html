@@ -47,7 +47,28 @@ ensavoirplus: /apropos.html
               	<p>en voiture privée est subventionné par la collectivité incluant par les ménages qui n'ont pas d'auto (et c'est beaucoup plus pour les voitures électriques).</p>
               	<p><a target="_blank" href="https://fr.davidsuzuki.org/projet/le-cout-des-transports-au-quebec/" class="btn btn-white px-3 py-2 mt-2">Rapport de la fondation Suzuki</a></p>
               </div>
+              {% for post in site.categories.graphique limit 3 %}
+              <hr/>
+              <div class="text">
+                <a href="{{ post.permalink }}">
+                <img src="/images/{{ post.thumb }}" alt="{{ post.alt }}" />
+                </a>
+              </div>
+              {% endfor %}
+              <hr/>
+              <h3 class="mb-4">Rapports et ressources</h3>
+              {% for ressource in site.data.ressources.items %}
+              <hr/>
+              <div class="text">
+                <h4 class="mb-4">{{ ressource.titre }}</h4>
+                <p>{{ ressource.annee }} — {{ ressource.sous_titre }} ({{ ressource.source }})</p>
+                <a href="{{ ressource.url }}">
+                <img src="{{ ressource.image }}" alt="{{ post.alt }}" />
+                </a>
+              </div>
+              {% endfor %}
             </div>
+
           </div>
           <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18 color-3 align-items-stretch">
