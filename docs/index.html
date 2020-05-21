@@ -60,7 +60,7 @@ ensavoirplus: /apropos.html
               {% for ressource in site.data.ressources.items %}
               <hr/>
               <div class="text">
-                <h4 class="mb-4">{{ ressource.titre }}</h4>
+                <h4 class="mb-4"><a href="{{ ressource.url }}">{{ ressource.titre }}</a></h4>
                 <p>{{ ressource.annee }} — {{ ressource.sous_titre }} ({{ ressource.source }})</p>
                 <a href="{{ ressource.url }}">
                 <img src="{{ ressource.image }}" alt="{{ post.alt }}" />
