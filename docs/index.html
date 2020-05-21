@@ -55,6 +55,17 @@ ensavoirplus: /apropos.html
                 </a>
               </div>
               {% endfor %}
+              <hr/>
+              {% for ressource in site.data.ressources.items %}
+              <hr/>
+              <div class="text">
+                <a href="{{ ressource.url }}">
+                <h3 class="mb-4">{{ ressource.titre }}</h3>
+                <p>{{ ressource.annee }} — {{ ressource.sous_titre }} ({{ ressource.source }})</p>
+                <img src="{{ ressource.image }}" alt="{{ post.alt }}" />
+                </a>
+              </div>
+              {% endfor %}
             </div>
 
           </div>
