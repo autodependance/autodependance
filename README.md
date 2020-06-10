@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/alberto56/antichar2.svg?style=svg)](https://circleci.com/gh/alberto56/antichar2)
+[![CircleCI](https://circleci.com/gh/autodependance/autodependance.svg?style=svg)](https://circleci.com/gh/autodependance/autodependance)
 
 Développement local
 -----
