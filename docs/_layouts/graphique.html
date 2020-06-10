@@ -13,13 +13,13 @@
     <section class="ftco-section contact-section ftco-degree-bg">
       <div class="container">
         <div>
-          <a target="_blank" href="/images/{{ page.image }}">
+          <a target="_blank" href="{{ page.image }}">
             Téléchargez l'image ici.
           </a>
         </div>
         <div>
         <a href="{{ page.image }}">
-        <img class="image-a-telecharger" src="/images/{{ page.image }}" alt="{{ page.alt }}" />
+        <img class="image-a-telecharger" src="{{ page.image }}" alt="{{ page.alt }}" />
         </a>
         </div>
         {{ content | markdownify }}

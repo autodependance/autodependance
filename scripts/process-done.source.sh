@@ -1,0 +1,5 @@
+echo ""
+echo "Visitez http://0.0.0.0:8080 pour voir le site localement."
+echo ""
+echo "Utilisez ./scripts/destroy.sh pour arrêter l'environnement local."
+echo ""

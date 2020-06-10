@@ -6,28 +6,37 @@ backend:
   repo: autodependance/autodependance
   base_url: https://auth.static.dcycle.com
   auth_endpoint: auth/github/alberto56
-media_folder: 'assets/uploads'
+media_folder: 'docs/media'
+public_folder: "/media"
 collections:
   - name: 'blog posts'
     create: true
     label: 'Blog'
-    folder: '_posts/'
+    folder: 'docs/_posts/'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Titre', name: 'titre', widget: 'string' }
+      - { label: 'Layout (mettre "post" pour un blog post, ou "graphique" pour un graphique)', name: 'layout', widget: 'string', default: 'post' }
+      - { label: 'Catégories (mettre "blog" pour un blog post, ou "graphique" pour un graphique)', name: 'categories', widget: 'string', default: 'blog' }
+      - { label: 'Id', name: 'id', widget: 'string', default: 'blog' }
+      - { label: Image, name: image, widget: image, default: /media/c.jpg }
+      - { label: 'Petite image, seulement utilisé pour les graphiques', name: thumb, widget: image }
+      - { label: "Description de l'image, dans le cas d'un graphique", name: 'alt', widget: 'string' }
+      - { label: 'Date de plublication', name: 'date', widget: 'datetime' }
+      - { label: 'Permalink, optionnel, par exemple /graphiques/ne-meritez-vous-liberte/', name: 'permalink', widget: 'string' }
+      - { label: 'corps', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
     editor:
       preview: false
     files:
-      - label: 'Manifeste'
-        name: 'manifeste'
-        file: 'manifeste/index.md'
+      - label: 'À propos'
+        name: 'apropos'
+        file: 'docs/apropos.html'
         fields:
-          - { label: 'Title', name: 'title', widget: 'hidden', default: 'About' }
-          - { label: 'permalink', name: 'permalink', widget: 'hidden', default: '/about/' }
+          - { label: 'Titre', name: 'titre', widget: 'hidden', default: 'À propos' }
+          - { label: 'Id', name: 'id', widget: 'hidden', default: 'apropos' }
+          - { label: 'Date', name: 'date', widget: 'hidden', default: '2020-01-07T12:00:00.000Z' }
+          - { label: Image, name: image, widget: image, default: /media/b.jpg }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
           - { label: 'Body', name: 'body', widget: 'markdown' }

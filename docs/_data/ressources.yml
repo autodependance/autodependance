@@ -4,22 +4,22 @@ items:
     source: Fondation Suziki
     url: "https://fr.davidsuzuki.org/projet/le-cout-des-transports-au-quebec/"
     annee: 2017
-    image: /images/ressources/2017-suzuki.jpg
+    image: /media/ressources-2017-suzuki.jpg
   - titre: "Fuel Economy in Major Car Markets, IEA.org, Technology and Policy Drivers 2005-2017"
     sous_tire: ""
     source: Agence mondiale de l'énergie
     url: "https://www.iea.org/reports/fuel-economy-in-major-car-markets"
     annee: 2019
-    image: /images/ressources/2019-iea.jpg
+    image: /media/ressources-2019-iea.jpg
   - titre: "L’aménagement et l’écomobilité"
     sous_titre: "Guide de bonnes pratiques sur la planification territoriale et le développement durable"
     source: Gouvernement du Québec
     url: "https://www.mamh.gouv.qc.ca/fileadmin/publications/grands_dossiers/developpement_durable/amenagement_ecomobilite.pdf"
     annee: 2011
-    image: /images/ressources/2011-gouv-qc.jpg
+    image: /media/ressources-2011-gouv-qc.jpg
   - titre: "Pour des milieux de vie durables"
     sous_titre: "Guide de bonnes pratiques sur la planification territoriale et le développement durable"
     source: Gouvernement du Québec
     url: "https://www.mamh.gouv.qc.ca/fileadmin/publications/grands_dossiers/developpement_durable/amenagement_ecomobilite.pdf"
     annee: 2020
-    image: /images/ressources/2020-gouv-qc.jpg
+    image: /media/ressources-2020-gouv-qc.jpg

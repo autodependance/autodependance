@@ -1,7 +1,7 @@
 ---
 layout: page
 id: blog
-image: bg_2_car.jpg
+image: /media/bg_2_car.jpg
 titre: Mission d’observation au Salon de l’auto de Montréal 2020
 date: 2020-03-20T12:00:00.000Z
 categories: blog

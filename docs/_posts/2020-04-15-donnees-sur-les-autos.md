@@ -1,7 +1,7 @@
 ---
 layout: page
 id: blog
-image: parking-lot.jpg
+image: /media/parking-lot.jpg
 titre: "Belles paroles et des engagements sur les transports durables, les chiffres parlent"
 date: 2020-04-15T12:00:00.000Z
 categories: blog
