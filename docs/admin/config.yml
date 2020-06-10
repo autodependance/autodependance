@@ -40,3 +40,18 @@ collections:
           - { label: Image, name: image, widget: image, default: /media/b.jpg }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: "pubs"
+    label: "Publicités"
+    editor:
+      preview: false
+    files:
+      - label: 'Publicités'
+        name: 'pubs'
+        file: 'docs/_data/pubs.yml'
+        fields:
+          - label: "Publicités"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: 'titre', name: 'titre', widget: 'string' }
+              - { label: 'source (lien youtube ou autre)', name: 'source', widget: 'string' }
