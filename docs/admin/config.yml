@@ -54,4 +54,4 @@ collections:
             widget: "list"
             fields:
               - { label: 'titre', name: 'titre', widget: 'string' }
-              - { label: 'source (lien youtube ou autre)', name: 'source', widget: 'string' }
+              - { label: 'source (lien youtube dans le format https://www.youtube.com/embed/NLXaYGkBld4, ou autre)', name: 'source', widget: 'string' }

@@ -52,6 +52,19 @@ ensavoirplus: /apropos.html
                 </div>
                 {% endfor %}
               </div>
+              <div class="text">
+                <h4>"En gros, leur idée c’était de détruire les forêts et de les remplacer par des voitures. Ce n’était pas un projet conscient et réfléchi; c’était bien pire." (Frédéric Beigbeder, 99 Francs, 2000) <em>Toutes les pubs d'auto sont une offense à la dignité humaine. Voici les plus médiocres.</em></h4>
+                {% for pub in site.data.pubs.items %}
+                <div class="block-21 mb-4 d-flex">
+                  <div class="text">
+                    <h3 class="heading"><a href="{{ pub.source }}">{{ pub.titre }}</a></h3>
+                    {% if pub.source contains "https://www.youtube.com/embed/" %}
+                    <iframe width="266" height="160" src="{{ pub.source }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    {% endif %}
+                  </div>
+                </div>
+                {% endfor %}
+              </div>
             </div>
           </div>
           <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
