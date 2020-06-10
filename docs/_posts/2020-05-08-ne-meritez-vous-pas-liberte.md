@@ -2,8 +2,8 @@
 layout: graphique
 titre: "Antipub « ne méritez-vous pas un peu de liberté ? »"
 alt: "Ne méritez-vous pas un peu de liberté ? La voiture tue. (Voitures dans un paquet de cigarettes)"
-image: autodependance.org-ne-meritez-vous-liberte.jpg
-thumb: autodependance.org-ne-meritez-vous-liberte-thumbnail.jpg
+image: /media/autodependance.org-ne-meritez-vous-liberte.jpg
+thumb: /media/autodependance.org-ne-meritez-vous-liberte-thumbnail.jpg
 date: 2020-05-08T12:00:00.000Z
 categories: graphique
 permalink: /graphiques/ne-meritez-vous-liberte/

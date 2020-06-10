@@ -16,7 +16,7 @@
            <h2 class="ftco-heading-2">Articles</h2>
            {% for post in site.categories.blog limit:3 %}
            <div class="block-21 mb-4 d-flex">
-             <a class="blog-img mr-4" style="background-image: url(/images/{{ post.image }});"></a>
+             <a class="blog-img mr-4" style="background-image: url({{ post.image }});"></a>
              <div class="text">
                <h3 class="heading"><a href="{{ post.url }}">{{ post.titre }}</a></h3>
                <div class="meta">
@@ -38,7 +38,7 @@
         {% endif %}
 
         <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Distribué sous <a href="https://creativecommons.org/licenses/by/4.0/legalcode.fr">license CC BY 4.0</a> <script>document.write(new Date().getFullYear());</script> | <a href="https://github.com/autodependance/autodependance/{{ edit }}">Modifier ce site sur GitHub</a> | Le template est conçu par <a href="https://colorlib.com" target="_blank">Colorlib et distributé sous CC BY 3.0</a>
+Distribué sous <a href="https://creativecommons.org/licenses/by/4.0/legalcode.fr">license CC BY 4.0</a> <script>document.write(new Date().getFullYear());</script> | <a href="https://github.com/autodependance/autodependance/{{ edit }}">Modifier ce site sur GitHub</a> | <a href="/admin">Interface administrative</a> | Le template est conçu par <a href="https://colorlib.com" target="_blank">Colorlib et distributé sous CC BY 3.0</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
       </div>
     </div>

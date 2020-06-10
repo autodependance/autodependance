@@ -1,7 +1,7 @@
 ---
 layout: page
 id: blog
-image: pont-jacques-cartier.jpg
+image: /media/pont-jacques-cartier.jpg
 titre: "Fermeture du Pont Jacques-Cartier aux piétons: une autre concession à l'autodépendance"
 date: 2020-04-10T12:00:00.000Z
 categories: blog
@@ -20,7 +20,7 @@ En terme de superficie, selon une analyse faite à partir d'[une image satellite
 
 Si vous venez d'un pays où tous les usages de la route sont traités équitablement, vous allez être surpris d'apprendre qu'en Amérique du nord, des infrastructures publiques réservées aux citoyens de deuxième classe (les non-automobilistes) peuvent être fermées n'importe quand, sans explication, et pour une durée indéterminée. Mais ceci est notre culture ici en Amérique du Nord. C'est le cas du trottoir du pont Jacques Cartier depuis le 1er avril. Dans ce cas précis, comptons-nous chanceux que les autorités daignent [inscrire cette fermeture sur le web](http://jacquescartierchamplain.ca/circulation-travaux/pietons-et-cyclistes/):
 
-<img src="/images/2020-04-10-1.png" alt="capture d'écran du site web du pont Jacques-Cartier: trottoir fermé depuis le 1er avril"/>
+<img src="/media/2020-04-10-1.png" alt="capture d'écran du site web du pont Jacques-Cartier: trottoir fermé depuis le 1er avril"/>
 
 Ce qui nous laisse 72.8% de la surface (dont l'entretien est payé par l'ensemble des contribuables) à l'usage des véhicules à moteur; et 11% pour tous les autres usages.
 
