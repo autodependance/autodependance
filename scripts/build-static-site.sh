@@ -19,3 +19,4 @@ docker run --rm \
   --volume="$PWD/docs:/srv/jekyll" \
   -it jekyll/minimal:4 \
   jekyll build --trace --incremental
+source ./scripts/process-done.source.sh
