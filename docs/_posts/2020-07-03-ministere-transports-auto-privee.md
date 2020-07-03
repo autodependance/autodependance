@@ -1,7 +1,7 @@
 ---
 layout: page
 id: blog
-image: /media/autoroute30.jpg
+image: /media/autoroute-30.jpg
 titre: "Le Ministère des transports par auto privée"
 date: 2020-07-03T13:12:15.178Z
 categories: blog
