@@ -16,7 +16,7 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - { label: 'Titre', name: 'titre', widget: 'string' }
-      - { label: 'Layout (mettre "post" pour un blog post, ou "graphique" pour un graphique)', name: 'layout', widget: 'string', default: 'post' }
+      - { label: 'Layout (mettre "page" pour un blog post, ou "graphique" pour un graphique)', name: 'layout', widget: 'string', default: 'page' }
       - { label: 'Catégories (mettre "blog" pour un blog post, ou "graphique" pour un graphique)', name: 'categories', widget: 'string', default: 'blog' }
       - { label: 'Id', name: 'id', widget: 'string', default: 'blog' }
       - { label: Image, name: image, widget: image, default: /media/c.jpg }

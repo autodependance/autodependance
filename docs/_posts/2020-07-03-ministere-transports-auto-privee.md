@@ -1,6 +1,6 @@
 ---
 titre: Le Ministère des transports par auto privée
-layout: post
+layout: page
 categories: blog
 id: blog
 image: /media/c.jpg
