@@ -3,12 +3,10 @@ titre: Le Ministère des transports par auto privée
 layout: page
 categories: blog
 id: blog
-image: /media/c.jpg
-thumb: ""
-alt: ""
+image: /media/autoroute30.jpg
 date: 2020-07-03T13:12:15.178Z
-permalink: ""
 ---
+
 Lettre ouverte à François BONNARDEL, Ministre des transports; et Isabelle MELANÇON, députée de Verdun (où j'habite).
 
 Bonjour M. Bonardel, Mme. Melançon,
@@ -40,5 +38,6 @@ Albert Albala
 
 Source des photos:
 
+* [Photo de l'autoroute 30](https://www.lecourrierdusud.ca/wp-content/uploads/sites/51/2018/06/Autor210416-06-1600x1081.jpg)
 * [Aux Pays-Bas, cette autoroute est réservée aux vélos, PositivR, 16 janvier 2018, Axel Leclercq](https://positivr.fr/autoroute-velos-pays-bas)
 * [In 1900, Los Angeles had a bike highway — and the US was a world leader in bike lanes, Vox, 30 juin 2015, Joseph Stromberg](https://www.vox.com/2015/6/30/8861327/bike-lanes-history)
