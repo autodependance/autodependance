@@ -4,10 +4,10 @@ layout: post
 categories: blog
 id: blog
 image: /media/c.jpg
-thumb: /media/autoroute-cyclable-los-angleles-1900.jpg
-alt: vélos
+thumb: ""
+alt: ""
 date: 2020-07-03T13:12:15.178Z
-permalink: /ministere-transports-par-auto-privee
+permalink: ""
 ---
 Lettre ouverte à François BONNARDEL, Ministre des transports; et Isabelle MELANÇON, députée de Verdun (où j'habite).
 
