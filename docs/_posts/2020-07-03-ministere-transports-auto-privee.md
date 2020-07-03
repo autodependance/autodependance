@@ -1,10 +1,10 @@
 ---
-titre: Le Ministère des transports par auto privée
 layout: page
-categories: blog
 id: blog
 image: /media/autoroute30.jpg
+titre: "Le Ministère des transports par auto privée"
 date: 2020-07-03T13:12:15.178Z
+categories: blog
 ---
 
 Lettre ouverte à François BONNARDEL, Ministre des transports; et Isabelle MELANÇON, députée de Verdun (où j'habite).
