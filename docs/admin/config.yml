@@ -20,10 +20,10 @@ collections:
       - { label: 'Catégories (mettre "blog" pour un blog post, ou "graphique" pour un graphique)', name: 'categories', widget: 'string', default: 'blog' }
       - { label: 'Id', name: 'id', widget: 'string', default: 'blog' }
       - { label: Image, name: image, widget: image, default: /media/c.jpg }
-      - { label: 'Petite image, seulement utilisé pour les graphiques', name: thumb, widget: image }
-      - { label: "Description de l'image, dans le cas d'un graphique", name: 'alt', widget: 'string' }
+      - { label: 'Petite image, seulement utilisé pour les graphiques', name: thumb, widget: image, required: false }
+      - { label: "Description de l'image, dans le cas d'un graphique", name: 'alt', widget: 'string', required: false }
       - { label: 'Date de plublication', name: 'date', widget: 'datetime' }
-      - { label: 'Permalink, optionnel, par exemple /graphiques/ne-meritez-vous-liberte/', name: 'permalink', widget: 'string' }
+      - { label: 'Permalink, optionnel, par exemple /graphiques/ne-meritez-vous-liberte/', name: 'permalink', widget: 'string', required: false }
       - { label: 'corps', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
