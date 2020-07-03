@@ -13,7 +13,7 @@ Bonjour M. Bonardel, Mme. Melançon,
 
 Je vous écris pour vous faire part d'une frustration que je ressens par rapport au Ministère des transports du Québec, qui, [selon son site web](https://www.transports.gouv.qc.ca/fr/ministere/organisation/Pages/budget.aspx), a un budget de 763,2 M$ dédié aux infrastructures routières, aériennes, ferrovières, maritimes... Mais il est clair que c'est un Ministère qui dessert les automobilistes et camionneurs avant tout.
 
-Par exemple, dans notre ville, près de [la moitié des citoyens font du vélo](http://ville.montreal.qc.ca/pls/portal/docs/page/transports_fr/media/documents/etat_velo_2015.pdf). Quand nous nous déplaçons en voiture, nous avons droit à des infrastructures de grande qualité, constamment améliorées. Les infrastructures cyclables municipales et fédérales sont, aussi, correctes, par exemple le pont champlain, certaines pistes cyclables à Montréal et la piste du canal Lachine.
+Par exemple, dans notre ville, près de [la moitié des citoyens font du vélo](http://ville.montreal.qc.ca/pls/portal/docs/page/transports_fr/media/documents/etat_velo_2015.pdf). Quand nous nous déplaçons en voiture, nous avons droit à des infrastructures de grande qualité, constamment améliorées. Les infrastructures cyclables municipales et fédérales sont, aussi, correctes, par exemple le pont Champlain, certaines pistes cyclables à Montréal et la piste du canal Lachine.
 Toutefois, dès qu'un cycliste veut se déplacer entre municipalités, il est souvent dangereux ou impossible de le faire.
 Quelques exemples:
 
@@ -24,7 +24,7 @@ Quelques exemples:
 
 Je sais, vous me direz que ce n'est pas la responsabilité du Ministère des transports, c'est le parc Jean-Drapeau, ou Saint-Lambert, ou Montréal. Dans le cas du passage par le Pont Victoria, c'est un sous-traitant du Parc-Jean-Drapeau qui a refusé de me donner son nom qui a décidé, un soir, de fermer le passage un peu plus tôt que prévu, me forçant à faire le détour par un pont.
 
-Mais voilà le problème: nous cyclistes payons des taxes et offrons un service important à la société: prévention des dépenses de santé en se gardant en forme, laisser de la place sur les autoroutes pour les gens qui doivent se promener en voiture, réduire les émissions de gaz à effet de serre. Il nous faut une section du Ministère des transports dédié aux non-automobilistes. 
+Mais voilà le problème: nous cyclistes payons des taxes et offrons un service important à la société: prévention des dépenses de santé en se gardant en forme, laisser de la place sur les autoroutes pour les gens qui doivent se déplacer en voiture, réduire les émissions de gaz à effet de serre. Il nous faut une section du Ministère des transports dédié aux non-automobilistes. 
 
 Ainsi, peut-être aurions-nous de mon vivant de vraies infrastructures comme cette autoroute cyclable aux Pays-Bas, ou celle de Los Angeles des années 1900 (détruite, depuis, pour faire place aux voitures). Voici quelques photos:
 
