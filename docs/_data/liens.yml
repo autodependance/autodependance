@@ -1,5 +1,10 @@
 items:
-  - titre: "Résistance à l’Agression Publicitaire (R.A.P.)"
-    desc: "Organisation française de surveillance de la publicité, active depuis 1992."
+  - titre: Résistance à l’Agression Publicitaire (R.A.P.)
+    desc: Organisation française de surveillance de la publicité, active depuis 1992.
     url: https://antipub.org/
     twitter: https://twitter.com/RAP_Asso
+  - titre: Badvertising
+    desc: Campagne dénonçant la publicité à outrance des produits et services qui
+      accélèrent le dérèglement climatique.
+    url: https://www.badverts.org/
+    twitter: https://twitter.com/badvertising11
