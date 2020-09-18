@@ -94,6 +94,18 @@ ensavoirplus: /apropos.html
                 </a>
               </div>
               {% endfor %}
+              {% for ressource in site.data.liens.items %}
+              <hr/>
+              <div class="text">
+                <a href="{{ ressource.url }}">
+                <h4 class="mb-4">{{ ressource.titre }}</h4>
+                <p>{{ ressource.desc }}</p>
+                <p>Site: <a href="{{ ressource.url }}">{{ ressource.url }}</a></p>
+                {% if ressource.twitter %}
+                <p>Site: <a href="{{ ressource.twitter }}">{{ ressource.twitter }}</a></p>
+                {% endif %}
+              </div>
+              {% endfor %}
             </div>
 
           </div>
