@@ -55,3 +55,59 @@ collections:
             fields:
               - { label: 'titre', name: 'titre', widget: 'string' }
               - { label: 'source (lien youtube dans le format https://www.youtube.com/embed/NLXaYGkBld4, ou autre)', name: 'source', widget: 'string' }
+  - name: "ressources"
+    label: "Ressources (par exemple rapports)"
+    editor:
+      preview: false
+    files:
+      - label: 'Ressources'
+        name: 'ressources'
+        file: 'docs/_data/ressources.yml'
+        fields:
+          - label: "Ressources"
+            name: "items"
+            widget: "list"
+            fields:
+              - name: "titre"
+                label: "titre"
+                widget: string
+              - name: "sous_tire"
+                label: "sous_tire"
+                widget: string
+              - name: "source"
+                label: "source"
+                widget: string
+              - name: "url"
+                label: "url"
+                widget: string
+              - name: "annee"
+                label: "annee"
+                widget: string
+              - name: "image"
+                label: "image"
+                widget: image
+  - name: "liens"
+    label: "Liens d'intérêt"
+    editor:
+      preview: false
+    files:
+      - label: "Liens d'intérêt"
+        name: 'liens'
+        file: 'docs/_data/liens.yml'
+        fields:
+          - label: "Liens"
+            name: "items"
+            widget: "list"
+            fields:
+              - name: "titre"
+                label: "titre"
+                widget: string
+              - name: "desc"
+                label: "desc"
+                widget: string
+              - name: "url"
+                label: "url"
+                widget: string
+              - name: "twitter"
+                label: "twitter"
+                widget: string
