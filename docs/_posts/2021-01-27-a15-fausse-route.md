@@ -23,9 +23,9 @@ Dans la couronne nord de Montréal, une région à forte croissance démographiq
 
 Et, bien sûr, le "gros bon sens" nous indique le bon chemin à prendre: (1) augmenter la capacité routière destinée aux automobilises, et donc la fluidité; (2) puisque 85% de la population québécoise semble d'accord qu'il faut que le Québec agisse pour adresser l'urgence climatique [3], subventionner massivement la transition vers l'auto électrique; (3) continuer à ignorer les besoins des non-automobilistes.
 
-Une telle approche permettrait, selon le même gros bon sens, au Québec de continuer à baser la planification urbaine de ses nouveaux quartiers sur l'auto privée. (Ou, devrait-on dire, sur le VUS privé, car cette catégorie de véhicules devient la norme comme on l'a vu plus haut; et [notre Ministre des transports semble avoir abdiqué à les surtaxer ou les réglementer](https://www.autodependance.org/blog/2020/03/18/budget-quebec-2020.html).)
+Une telle approche à trois piliers permettrait, selon le même gros bon sens, au Québec de continuer à baser la planification urbaine de ses nouveaux quartiers sur l'auto privée. (Ou, devrait-on dire, sur le VUS privé, car cette catégorie de véhicules devient la norme comme on l'a vu plus haut; et [notre Ministre des transports semble avoir abdiqué à les surtaxer ou les réglementer](https://www.autodependance.org/blog/2020/03/18/budget-quebec-2020.html).)
 
-C'est dans cet esprit que, le 28 octobre 2020, le Ministre Bonardel (celui-là même qui ne croit pas à la réglementation des VUS, celui-là même qui s'entête à livrer un désastreux "troisième lien" entre Québec et sa Rive-Sud), tel un enfant dans un magasin de bonbons, annonce 1.5 milliards d'investissement pour élargir l'Autoroute 15.
+C'est dans cet esprit que, le 28 octobre 2020, le Ministre Bonardel (celui-là même qui ne croit pas à la réglementation des VUS, celui-là même qui s'entête à livrer un désastreux "troisième lien" entre Québec et sa Rive-Sud) annonce 1.5 milliards d'investissement pour élargir l'Autoroute 15.
 
 À première vue, la population de la couronne nord de Montréal peut se réjouir de respirer un peu grâce à ce cadeau de la population entière (non-automobilistes inclus) du Québec.
 
@@ -82,7 +82,7 @@ Si on ne regarde que les heures annuellement perdues dans le traffic, Amsterdam 
 
 Le changement sur un an semble fournir un portrait plus nuancé: il est vrai que Houston voit une diminution de son temps dédié à la congestion routière; et qu'Amsterdam voit une augmentation la plus élevée dans le lot. Toutefois, 12% de 28 minutes n'est que 3m20. Le 4% de Los Angeles équivaut à 4m10. Houston suit une trajectoire classique de la demande induite: construisez des routes, réduisez la congestion, attirez des automobilistes, augmentez la congestion, construisez des routes, etc. On peut donc s'attendre à ce que la réduction de 9% de Houston ne soit pas viable à long terme.
 
-Montréal et Québec semble avoir décidé de suivre l'exemple de Los Angeles et Houston, lorsque les chiffres semblent plutôt suggérer que Copenhague et Amsterdam sont de meilleurs exemples à suivre... pour les automobilistes et non-automobilistes.
+Montréal et Québec semblent avoir décidé de suivre l'exemple de Los Angeles et Houston, lorsque les chiffres semblent plutôt suggérer que Copenhague et Amsterdam sont de meilleurs exemples à suivre... pour les automobilistes comme les non-automobilistes.
 
 Notes:
 -----
