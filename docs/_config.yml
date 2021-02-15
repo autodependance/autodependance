@@ -15,7 +15,10 @@ sections:
     titre: Contact
   - id: twitter
     href: https://twitter.com/autodependance
-    titre: Sur Twitter
+    titre: Twitter
+  - id: facebook
+    href: https://www.facebook.com/groups/autodependance
+    titre: Facebook
 
 # Notre site utilise https://formspree.io pour les formulaires.
 formspree_token: mqkereej
