@@ -24,7 +24,7 @@ Et, bien sûr, le "gros bon sens" nous indique le bon chemin à prendre: (1) aug
 
 Une telle approche à trois piliers permettrait, selon le même gros bon sens, au Québec de continuer à baser la planification urbaine des nouveaux quartiers sur les besoins de l'auto privée. (Ou, devrait-on dire, sur le VUS privé, car cette catégorie de véhicules devient la norme comme on l'a vu plus haut; et [notre Ministre des transports semble avoir abdiqué à les surtaxer ou les réglementer](https://www.autodependance.org/blog/2020/03/18/budget-quebec-2020.html).)
 
-C'est dans cet esprit que, le 28 octobre 2020, le Ministre Bonardel (celui-là même qui ne croit pas à la réglementation des VUS, celui-là même qui s'entête à livrer un désastreux "troisième lien" entre Québec et sa Rive-Sud) annonce 1.5 milliards d'investissement pour élargir l'Autoroute 15.
+C'est dans cet esprit que, le 28 octobre 2020, le Ministre des Transports, François Bonnardel, celui-là même qui ne croit pas à la réglementation des VUS, celui-là même qui s'entête à livrer un désastreux "troisième lien" entre Québec et sa Rive-Sud, annonce 1.5 milliards d'investissement pour élargir l'Autoroute 15.
 
 À première vue, la population de la couronne nord de Montréal peut se réjouir de respirer un peu grâce à ce cadeau de la population entière (non-automobilistes inclus) du Québec.
 
@@ -38,7 +38,7 @@ Pour examiner cette théorie, regardons des exemples extrêmes: Houston, qui a p
 
 ## L'exemple de Houston
 
-Houston, au Texas, a une approche agressive d'augmentation de la capacité routière, à la Bonardel mais exposant dix: l'autoroute I-10 y a, sur certains segments, vingt-six (26) voies \[5]. La philosophie Houstonienne est d'augmenter sans cesse la capacité routière pour augmenter la fluidité.
+Houston, au Texas, a une approche agressive d'augmentation de la capacité routière, à la Bonnardel mais exposant dix: l'autoroute I-10 y a, sur certains segments, vingt-six (26) voies \[5]. La philosophie Houstonienne est d'augmenter sans cesse la capacité routière pour augmenter la fluidité.
 
 Cette capture d'écran \[6] montre bien ce type de développement. Les voitures existantes ont plus de place et tout le monde est heureux, c'est logique.
 
