@@ -28,7 +28,7 @@ C'est dans cet esprit que, le 28 octobre 2020, le Ministre des Transports, Fran�
 
 À première vue, la population de la couronne nord de Montréal peut se réjouir de respirer un peu grâce à ce cadeau de la population entière (non-automobilistes inclus) du Québec.
 
-Une augmentation de la de capacité routière nous mène à une augmentation de fluidité, c'est logique.
+Une augmentation de la capacité routière nous mène à une augmentation de fluidité, c'est logique.
 
 *Mais est-ce si logique que ça?*
 
