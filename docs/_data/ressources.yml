@@ -1,13 +1,11 @@
 items:
   - titre: Évolution des coûts du système de transport par automobile au Québec
-    sous_tire: _
     source: Fondation Suziki
     url: https://fr.davidsuzuki.org/projet/le-cout-des-transports-au-quebec/
     annee: 2017
     image: /media/ressources-2017-suzuki.jpg
   - titre: Fuel Economy in Major Car Markets, IEA.org, Technology and Policy Drivers
       2005-2017
-    sous_tire: _
     source: Agence mondiale de l'énergie
     url: https://www.iea.org/reports/fuel-economy-in-major-car-markets
     annee: 2019
@@ -19,7 +17,6 @@ items:
     url: https://www.mamh.gouv.qc.ca/fileadmin/publications/grands_dossiers/developpement_durable/amenagement_ecomobilite.pdf
     annee: 2011
     image: /media/ressources-2011-gouv-qc.jpg
-    sous_tire: _
   - titre: Pour des milieux de vie durables
     sous_titre: Guide de bonnes pratiques sur la planification territoriale et le
       développement durable
@@ -27,10 +24,8 @@ items:
     url: https://www.mamh.gouv.qc.ca/fileadmin/publications/grands_dossiers/developpement_durable/amenagement_ecomobilite.pdf
     annee: 2020
     image: /media/ressources-2020-gouv-qc.jpg
-    sous_tire: _
   - titre: " Je déjoue la pub, je me transporte autrement"
     url: https://fondationmf.ca/wp-content/uploads/2018/10/jedejouelapub.pdf?fbclid=IwAR1fu7WbiEvxOFtq6z0qpXXNIcqaXgYQyrqZRWMqdOlbLQe4w2d79pyTo6E
     source: Fondation Monique-Fitz-Back
     annee: "2018"
     image: /media/screen-shot-2021-04-07-at-2.19.35-pm.png
-    sous_tire: _

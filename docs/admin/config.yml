@@ -74,6 +74,7 @@ collections:
               - name: "sous_tire"
                 label: "sous_tire"
                 widget: string
+                required: false
               - name: "source"
                 label: "source"
                 widget: string
